@@ -7,7 +7,7 @@ name (имя)
 
 age (возраст)
 
-__health_status (статус здоровья: "healthy" или "sick") — инкапсулируйте.
+__health_status (статус здоровья: healthy - True или sick - False) — инкапсулируйте.
 
 Методы:
 
